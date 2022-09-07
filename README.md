@@ -1,4 +1,4 @@
-# Insurance Pricing and Credit Risk Modelling
+# Credit Risk Modelling and Insurance Pricing 
 Top 5 Finalist, Malaysian Actuarial Student Association Hackathon 2022
 
 ## Contributors: 
